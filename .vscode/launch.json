@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/workspace/LuoGu_Experience/【入门6】函数与结构体",
-      "program": "f:/workspace/LuoGu_Experience/【入门6】函数与结构体/build/Debug/outDebug",
+      "cwd": "f:/workspace/LuoGu_Experience/【算法1-3】暴力枚举",
+      "program": "f:/workspace/LuoGu_Experience/【算法1-3】暴力枚举/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
