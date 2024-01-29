@@ -57,5 +57,9 @@
   "C_Cpp_Runner.useUndefinedSanitizer": false,
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
-  "C_Cpp_Runner.useLinkTimeOptimization": false
+  "C_Cpp_Runner.useLinkTimeOptimization": false,
+  "DevChat.Language": "zh",
+  "DevChat.PythonForChat": "c:\\Users\\Administrator\\.vscode\\extensions\\merico.devchat-0.1.42\\tools\\python-3.11.6-embed-amd64\\python.exe",
+  "devchat.defaultModel": "gpt-3.5-turbo-16k",
+  "DevChat.PythonForCommands": "C:\\Users\\Administrator\\.chat\\mamba\\envs\\devchat-commands\\python.exe"
 }
